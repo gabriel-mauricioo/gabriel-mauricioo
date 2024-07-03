@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 **Desenvolvedor Front-end** | 🌐 **Entusiasta de Tecnologia** | 📚 **Aprendendo sempre**</p>
+<p align="left">🎓 Desenvolvedor Front-end| 🌐 Entusiasta de Tecnologia| 📚 Aprendendo sempre</p>
 
 ###
 
