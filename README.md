@@ -1,8 +1,12 @@
-<h2 align="left">About me</h2>
+<h1 align="left">Olá, eu sou o Gabriel Mauricio 👋</h1>
 
 ###
 
-<p align="left">🎓 **Desenvolvedor Front-end** | 🌐 **Entusiasta de Tecnologia** | 📚 **Aprendendo sempre**<br><br>Olá! Meu nome é Gabriel Mauricio e eu sou apaixonado por desenvolvimento web, especialmente na área de front-end.</p>
+<p align="left">🎓 **Desenvolvedor Front-end** | 🌐 **Entusiasta de Tecnologia** | 📚 **Aprendendo sempre**</p>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
@@ -38,6 +42,13 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
+<p align="left"></p>
+
+###
 
 <br clear="both">
 
